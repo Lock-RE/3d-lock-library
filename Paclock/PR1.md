@@ -4,17 +4,17 @@ To use this, load the .scad in [OpenSCAD](https://openscad.org) and input your k
 
 ## Example Key
 One of the keys used to gather information and intel was coded 6212121:
-![Paclock 200K 6212121](Resources/PR1 Key.jpg "PR1 6212121")
+![Paclock 200K 6212121](https://github.com/Lock-RE/3d-lock-library/edit/main/Paclock/Resources/PR1 Key.jpg "PR1 6212121")
 
 The generated key:  
-![Paclock 200K 6212121 Generated](Resources/PR1 Key Generated.png "PR1 6212121 Generated")
+![Paclock 200K 6212121 Generated](https://github.com/Lock-RE/3d-lock-library/edit/main/Paclock/Resources/PR1 Key Generated.png "PR1 6212121 Generated")
 
 ## Process
 The process for figuring out how to create any key involved tracing the key out as an SVG, approximating what the blank should look like using images from Paclock and simple guessing:  
-![Paclock PR1 Blank](PR1 Blank.svg "PR1 Blank")  
+![Paclock PR1 Blank](https://github.com/Lock-RE/3d-lock-library/edit/main/Paclock/PR1 Blank.svg "PR1 Blank")  
 
 A rubbing of the back of the plug to trace and recreate the keyway itself:  
-![Paclock PR1 Rubbing](Resources/PR1 Keyway Rubbing.jpg "PR1 Keyway Rubbing")  
+![Paclock PR1 Rubbing](https://github.com/Lock-RE/3d-lock-library/edit/main/Paclock/Resources/PR1 Keyway Rubbing.jpg "PR1 Keyway Rubbing")  
 
 A note: The core appears to have slightly less aggressive and softened edges compared to how the key itself is milled. To match the key milling, more measurements from a key were taken to get this exact as possible.  
 
